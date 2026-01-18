@@ -1,8 +1,6 @@
 # 🤖 AutoGen Data Cleaning Studio
 **with OpenAI GPT-4.1-mini**
 
-🌐 **See the Live Application**: [https://ai-data-cleaning-studio.vercel.app/](https://ai-data-cleaning-studio.vercel.app/)
-
 > **Upload raw CSV/Parquet files and let AutoGen agents analyze, clean, and transform them into production-grade datasets with executable ops code.** ⚡
 
 ---
@@ -165,13 +163,6 @@
 - **Railway** - For backend deployment
 - **Vercel** - For frontend deployment
 - **shadcn/ui** - For beautiful components
-
----
-
-## 📞 Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-data-cleaning-studio/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-data-cleaning-studio/discussions)
 
 ---
 
